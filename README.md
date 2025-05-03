@@ -104,4 +104,5 @@
 - 📎 Sprint Brief:
 - 📸 Screenshots / References:
 - 📑 Docs & Research:
+-- Video: [Call of 2025.01.23](https://www.youtube.com/watch?v=GfbDahDsdGI&t=11s)
 <!-- /fold -->
