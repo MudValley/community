@@ -1,19 +1,15 @@
----
-title: Welcome to the Hackathon!
-
----
-
 # 🏁 5-Day Design Sprint
 
-**Goal:** _[Briefly describe the problem you're solving]_  
-**Sprint Team:** _[List names & roles]_  
-**Dates:** _[Start → End]_  
+**Goal:** _[Describe the problem you're solving]_  
+**Sprint Team:** _[Names & roles]_  
+**Sprint Dates:** _[Start → End]_  
 **Facilitator:** _[Name]_  
 
-> 💡 _“How might we…” guiding question goes here_
+> 💡 _"How Might We…" guiding question here_
 
 ---
 
+<!-- fold -->
 ## 📅 Day 1 – Understand & Map
 
 ### 🧠 Expert Interviews
@@ -21,175 +17,91 @@ title: Welcome to the Hackathon!
 - [ ] Interview 2:
 
 ### 🗺️ Map the Journey
-- Customer's starting point → goal.
+- Outline the user's path from start to goal.
 
 ### ❓ How Might We (HMW) Questions
 - [ ] HMW #1:
 - [ ] HMW #2:
 
-### 🎯 Target
-- _What area of the journey will you focus on?_
+### 🎯 Target Area
+- _What key moment or step will you focus on?_
+<!-- /fold -->
 
 ---
 
+<!-- fold -->
 ## ✏️ Day 2 – Sketch
 
 ### 🧩 Lightning Demos
-- [ ] Example 1:  
+- [ ] Example 1:
 - [ ] Example 2:
 
 ### ✍️ Crazy 8s / Rough Ideas
-- Use pen & paper → upload links/images here.
+- _Upload sketches or notes here._
 
 ### ✅ Solution Sketches
-- [ ] Idea Name:
+- [ ] Idea Title:
     - Summary:
-    - Image/Link:
+    - Sketch/Image/Link:
+<!-- /fold -->
 
 ---
 
+<!-- fold -->
 ## 🗳️ Day 3 – Decide
 
-### 🖼️ Gallery of Sketches (Art Museum)
-Paste or link to all solution sketches.
+### 🖼️ Art Museum (Gallery of Sketches)
+- Add all sketches for review.
 
-### 🔘 Dot Voting Results
-- [ ] Winning Idea #1:
-- [ ] Winning Idea #2:
+### 🔘 Dot Voting
+- [ ] Voted Idea #1:
+- [ ] Voted Idea #2:
 
 ### 🧠 Storyboard
-List 5–7 steps of the user’s journey in your prototype.
+- Sketch out 5–7 steps for the prototype journey.
+<!-- /fold -->
 
 ---
 
+<!-- fold -->
 ## 🛠️ Day 4 – Prototype
 
-### Roles
-- Designer:  
-- Writer:  
-- Builder:  
+### Team Roles
+- Design: [Name]  
+- Content: [Name]  
+- Builder: [Name]
 
-### Tools
-(Figma, Marvel, Notion, etc.)
+### Tools in Use
+- Figma / InVision / Notion / etc.
 
 ### 📐 Prototype Link
-[Insert live prototype link here]
+- [Insert link here]
+<!-- /fold -->
 
 ---
 
+<!-- fold -->
 ## 🧪 Day 5 – Test
 
-### 👤 Test Participants
+### 👤 Participants
 - [ ] Participant 1  
 - [ ] Participant 2  
 
 ### Interview Script
-_Brief welcome → scenario → questions_
+- Welcome → Scenario → Questions
 
-### 🗣️ Feedback Notes
+### 🗣️ Notes & Feedback
 - What worked:
-- What confused people:
-- Suggested changes:
+- What was unclear:
+- Ideas for improvement:
+<!-- /fold -->
 
 ---
 
+<!-- fold -->
 ## 📂 Resources
-- 📎 Sprint brief:
-- 📸 Screenshots / references:
-- 📑 Docs / notes:
 
-# 🏁 5-Day Design Sprint
-
-**Goal:** _[Briefly describe the problem you're solving]_  
-**Sprint Team:** _[List names & roles]_  
-**Dates:** _[Start → End]_  
-**Facilitator:** _[Name]_  
-
-> 💡 _“How might we…” guiding question goes here_
-
----
-
-## 📅 Day 1 – Understand & Map
-
-### 🧠 Expert Interviews
-- [ ] Interview 1:  
-- [ ] Interview 2:
-
-### 🗺️ Map the Journey
-- Customer's starting point → goal.
-
-### ❓ How Might We (HMW) Questions
-- [ ] HMW #1:
-- [ ] HMW #2:
-
-### 🎯 Target
-- _What area of the journey will you focus on?_
-
----
-
-## ✏️ Day 2 – Sketch
-
-### 🧩 Lightning Demos
-- [ ] Example 1:  
-- [ ] Example 2:
-
-### ✍️ Crazy 8s / Rough Ideas
-- Use pen & paper → upload links/images here.
-
-### ✅ Solution Sketches
-- [ ] Idea Name:
-    - Summary:
-    - Image/Link:
-
----
-
-## 🗳️ Day 3 – Decide
-
-### 🖼️ Gallery of Sketches (Art Museum)
-Paste or link to all solution sketches.
-
-### 🔘 Dot Voting Results
-- [ ] Winning Idea #1:
-- [ ] Winning Idea #2:
-
-### 🧠 Storyboard
-List 5–7 steps of the user’s journey in your prototype.
-
----
-
-## 🛠️ Day 4 – Prototype
-
-### Roles
-- Designer:  
-- Writer:  
-- Builder:  
-
-### Tools
-(Figma, Marvel, Notion, etc.)
-
-### 📐 Prototype Link
-[Insert live prototype link here]
-
----
-
-## 🧪 Day 5 – Test
-
-### 👤 Test Participants
-- [ ] Participant 1  
-- [ ] Participant 2  
-
-### Interview Script
-_Brief welcome → scenario → questions_
-
-### 🗣️ Feedback Notes
-- What worked:
-- What confused people:
-- Suggested changes:
-
----
-
-## 📂 Resources
-- 📎 Sprint brief:
-- 📸 Screenshots / references:
-- 📑 Docs / notes:
-
+- 📎 Sprint Brief:
+- 📸 Screenshots / References:
+- 📑 Docs & Research:
+<!-- /fold -->
